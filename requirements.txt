@@ -1,0 +1,13 @@
+SpeechRecognition 
+pyttsx3
+psutil
+pyjokes
+datetime
+pywhatkit
+pyautogui
+json
+random
+wikipedia
+pygetwindow
+subprocess
+gunicorn==20.1.0
