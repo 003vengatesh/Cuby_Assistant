@@ -39,7 +39,7 @@ header p {
 }
 
 article h2 {
-    color: #66ccff; /* Light Blue */
+    color: grey; /* Light Blue */
     font-size: 2em;
     margin-bottom: 10px;
     transition: color 0.3s ease-in-out; /* Added transition for color change */
