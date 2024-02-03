@@ -512,9 +512,9 @@ def main():
             remember = open(file_path,'w')
             remember.write(query)
             remember.close()
-        elif 'anything to remember' in query:
+        elif 'do you remember' in query:
             file_path = os.path.join(settings.BASE_DIR, 'AI_logic_app', 'data','remember','data.txt')
-            remember = open(file_path,'r')
+            remember = open(file_path,'r+')
             speak("you said me to remember that" +remember.read())
         elif 'technical joke' in query:
             speak(pyjokes.get_joke(category='all'))
