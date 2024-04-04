@@ -125,9 +125,6 @@ To get started with Cuby Assistant, simply clone this repository and follow the 
 
 We welcome contributions from the community to enhance Cuby Assistant's functionality and usability. Feel free to submit pull requests or open issues for feedback and suggestions.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
@@ -135,4 +132,4 @@ Special thanks to the creators and contributors of the libraries and modules use
 
 ## Connect with Us
 
-For updates and discussions, join our community on [GitHub](https://github.com/cuby-assistant) and [Twitter](https://twitter.com/CubyAssistant).
+For updates and discussions, contact nvengatesh7373@gmail.com.
