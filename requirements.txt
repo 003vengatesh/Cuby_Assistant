@@ -5,7 +5,6 @@ pyjokes
 datetime
 pywhatkit
 pyautogui
-json
 random
 wikipedia
 pygetwindow
